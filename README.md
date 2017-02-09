@@ -3,17 +3,17 @@
 You have been hired as a freelance developer for Upperline's Heros page, but the site is a total mess. For one, there's hardly any content of the site, but more importantly, none of the links work!
 
 ## Instructions
-+ Fork and Clone this lab, and then `cd` into the lab directory. Open up `upperline.html` in your text editor
+Fork and Clone this lab, and then `cd` into the lab directory. Open up `upperline.html` in your text editor
 
 ### Step 1: Add in pictures for each hero.
 
-Each section (or <div>) is dedicated to a different Upperline Hero. These are people who've done great things to advance computer science or technology over the past hundred years. For each person, **find an image online and add it in using the `<img>` tag.**
+Each section (or `<div>`) is dedicated to a different Upperline Hero. These are people who've done great things to advance computer science or technology over the past hundred years. For each person, **find an image online and add it in using the `<img>` tag.**
 
 We've done one for you at the bottom (with cats), so that you have an example to work with.
 
 ### Step 2: Add in links to external sites
 
-Link each person's name and image to their wikipedia page, using `<a href=>` tags. Remember anything inside of the <a> tags will get linked!
+Link each person's name and image to their wikipedia page, using `<a href=>` tags. Remember anything inside of the `<a>` tags will get linked!
 
 See the "Cats" Section for a good example.
 
@@ -39,4 +39,4 @@ List of HTML elements to use
 + h1, h2, h3, etc.
 + `<title>` --- remember that the `<title>` tag goes in the head, not the body!!!
 + "Semantic" (meaningful) tags that don't add styling but help to organize your code. They also are useful for browsers that help the visually impaired `<section>`, `<article>`, `<nav>`,  `<header>`, `<header>`, `<footer>`, `<details>`
-+ `<table>` (if you can stand a migrane; you'll probably need to google this one!)
++ `<table>` (if you can stand a migraine; you'll probably need to google this one!)
